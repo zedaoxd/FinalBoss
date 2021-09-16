@@ -1,0 +1,16 @@
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\bin\Debug\net5.0\FinalBoss.exe
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\bin\Debug\net5.0\FinalBoss.deps.json
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\bin\Debug\net5.0\FinalBoss.runtimeconfig.json
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\bin\Debug\net5.0\FinalBoss.runtimeconfig.dev.json
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\bin\Debug\net5.0\FinalBoss.dll
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\bin\Debug\net5.0\ref\FinalBoss.dll
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\bin\Debug\net5.0\FinalBoss.pdb
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\obj\Debug\net5.0\FinalBoss.csproj.AssemblyReference.cache
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\obj\Debug\net5.0\FinalBoss.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\obj\Debug\net5.0\FinalBoss.AssemblyInfoInputs.cache
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\obj\Debug\net5.0\FinalBoss.AssemblyInfo.cs
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\obj\Debug\net5.0\FinalBoss.csproj.CoreCompileInputs.cache
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\obj\Debug\net5.0\FinalBoss.dll
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\obj\Debug\net5.0\ref\FinalBoss.dll
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\obj\Debug\net5.0\FinalBoss.pdb
+D:\cursosOnline\ProgramasGameDevPro\IntroducaoAoCsharp\desafio_final\FinalBoss\obj\Debug\net5.0\FinalBoss.genruntimeconfig.cache
