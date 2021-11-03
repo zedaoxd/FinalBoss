@@ -1,6 +1,6 @@
 namespace FinalBoss
 {
-    public class Item
+    public struct Item
     {
         public string Name { get; private set; }
         public int Price { get; private set; }

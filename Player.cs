@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 namespace FinalBoss
 {
-    public class Player
+    public struct Player
     {
         public int Coins { get; private set; }
         public List<Item> ItemsPlayer { get; private set; }
