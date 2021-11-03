@@ -12,9 +12,9 @@ namespace FinalBoss
 
             store.PrintGreetigns();
 
-            store.ExecuteStoreLoop(p1);
+            store.ExecuteStoreLoop(ref p1);
 
-            store.printEnding(p1);
+            store.printEnding(ref p1);
         }
     }
 }

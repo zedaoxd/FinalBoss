@@ -28,7 +28,7 @@ namespace FinalBoss
             Console.ReadKey();
         }
 
-        public void ExecuteStoreLoop(Player player)
+        public void ExecuteStoreLoop(ref Player player)
         {
             while (canBuyAnyItem(player.Coins))
             {
@@ -83,7 +83,7 @@ namespace FinalBoss
             return false;
         }
 
-        public void printEnding(Player player)
+        public void printEnding(ref Player player)
         {
             Console.WriteLine();
             Console.WriteLine("Você não pode comprar mais nada, esses são seus itens: ");
